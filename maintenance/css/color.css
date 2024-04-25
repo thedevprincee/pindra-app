@@ -1,0 +1,48 @@
+/**
+	Hopz - eCommerce coming soon template
+ 	Copyright (c) 2018, Pophonic 
+	
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+
+/*--------------------------------------------------------------------------------
+>>> You can change template color scheme by change the CSS value below.
+----------------------------------------------------------------------------------*/
+
+.cd-slider-navigation li a:hover:before,
+.social-media li a:hover {
+	color: #C9283E;
+}
+
+.tooltipster-sidetip .tooltipster-box,
+.button.button-border a:hover,
+.button.button-border-light a:hover,
+.button.button-color-1 a,
+.order-submit-wrapper:hover label,
+.spinner > div {
+	background-color: #C9283E;
+}
+
+.button.button-border a:hover,
+.button.button-border-light a:hover,
+.button.button-color-1 a,
+.order-submit-wrapper:hover label {
+	border-color: #C9283E;
+}
+
+.tooltipster-sidetip.tooltipster-top .tooltipster-arrow-background {
+	border-top-color: #C9283E;
+}
+
+.price,
+.button.button-color-2 a,
+.modal-action {
+	background-color: #5a3662;
+}
+
+.button.button-color-2 a {
+	border-color: #5a3662;
+}
